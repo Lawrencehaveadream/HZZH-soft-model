@@ -1,0 +1,718 @@
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\obj\Debug\HZZH.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\obj\Debug\HZZH.Form1.resources
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\obj\Debug\UserDefine.Frm_ChangePassword.resources
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\obj\Debug\UserDefine.Frm_Login.resources
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\obj\Debug\Data.Frm_NewProject.resources
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\obj\Debug\HZZH.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\obj\Debug\Dispenser.Frm_machinePrm.resources
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\obj\Debug\Dispenser.Form_jog.resources
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\obj\Debug\Dispenser.Frm_IOControl.resources
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\obj\Debug\Dispenser.Frm_Warn.resources
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\bin\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\bin\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\bin\Debug\CSkin.dll
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\bin\Debug\Function.dll
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\bin\Debug\HZZH.dll
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\bin\Debug\Sqlite.dll
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\bin\Debug\Unme.Common.dll
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\bin\Debug\CSkin.xml
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\bin\Debug\Function.pdb
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\bin\Debug\HZZH.xml
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\bin\Debug\Unme.Common.xml
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\obj\Debug\HZZH.csproj.CopyComplete
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\obj\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\C# 数据结构\HZZH\HZZH\obj\Debug\HZZH.pdb
+E:\学习\框架\C# 数据结构\HZZH\HZZH\obj\Debug\HZZH.Form1.resources
+E:\学习\框架\C# 数据结构\HZZH\HZZH\obj\Debug\Dispenser.Frm_machinePrm.resources
+E:\学习\框架\C# 数据结构\HZZH\HZZH\obj\Debug\Dispenser.Form_jog.resources
+E:\学习\框架\C# 数据结构\HZZH\HZZH\obj\Debug\Dispenser.Frm_IOControl.resources
+E:\学习\框架\C# 数据结构\HZZH\HZZH\obj\Debug\Dispenser.Frm_Warn.resources
+E:\学习\框架\C# 数据结构\HZZH\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+E:\学习\框架\C# 数据结构\HZZH\HZZH\obj\Debug\UserDefine.Frm_ChangePassword.resources
+E:\学习\框架\C# 数据结构\HZZH\HZZH\obj\Debug\UserDefine.Frm_Login.resources
+E:\学习\框架\C# 数据结构\HZZH\HZZH\obj\Debug\Data.Frm_NewProject.resources
+E:\学习\框架\C# 数据结构\HZZH\HZZH\obj\Debug\HZZH.csproj.GenerateResource.cache
+E:\学习\框架\C# 数据结构\HZZH\HZZH\obj\Debug\HZZH.csproj.CoreCompileInputs.cache
+E:\学习\框架\C# 数据结构\HZZH\HZZH\obj\Debug\HZZH.exe
+E:\学习\框架\C# 数据结构\HZZH\HZZH\obj\Debug\HZZH.pdb
+E:\学习\框架\C# 数据结构\HZZH\HZZH\bin\Debug\HZZH.exe.config
+E:\学习\框架\C# 数据结构\HZZH\HZZH\bin\Debug\HZZH.exe
+E:\学习\框架\C# 数据结构\HZZH\HZZH\bin\Debug\HZZH.pdb
+E:\学习\框架\C# 数据结构\HZZH\HZZH\bin\Debug\Function.dll
+E:\学习\框架\C# 数据结构\HZZH\HZZH\bin\Debug\HZZH.dll
+E:\学习\框架\C# 数据结构\HZZH\HZZH\bin\Debug\log4net.dll
+E:\学习\框架\C# 数据结构\HZZH\HZZH\bin\Debug\Newtonsoft.Json.dll
+E:\学习\框架\C# 数据结构\HZZH\HZZH\bin\Debug\Unme.Common.dll
+E:\学习\框架\C# 数据结构\HZZH\HZZH\bin\Debug\Function.pdb
+E:\学习\框架\C# 数据结构\HZZH\HZZH\bin\Debug\HZZH.xml
+E:\学习\框架\C# 数据结构\HZZH\HZZH\bin\Debug\log4net.xml
+E:\学习\框架\C# 数据结构\HZZH\HZZH\bin\Debug\Unme.Common.xml
+E:\学习\框架\C# 数据结构\HZZH\HZZH\obj\Debug\HZZH.csproj.CopyComplete
+E:\学习\框架\C# 数据结构\HZZH\HZZH\obj\Debug\HZZH.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\HZZH\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\Administrator\Desktop\HZZH\HZZH\obj\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\HZZH\HZZH\obj\Debug\HZZH.pdb
+C:\Users\admin\Desktop\HZZH(1)\HZZH\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\admin\Desktop\HZZH(1)\HZZH\HZZH\obj\Debug\HZZH.exe
+C:\Users\admin\Desktop\HZZH(1)\HZZH\HZZH\obj\Debug\HZZH.pdb
+C:\Users\admin\Desktop\HZZH(1)\HZZH\HZZH\obj\Debug\HZZH.Form1.resources
+C:\Users\admin\Desktop\HZZH(1)\HZZH\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\admin\Desktop\HZZH(1)\HZZH\HZZH\obj\Debug\HZZH.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\HZZH(1)\HZZH\HZZH\bin\Debug\HZZH.exe
+C:\Users\admin\Desktop\HZZH(1)\HZZH\HZZH\bin\Debug\HZZH.pdb
+C:\Users\admin\Desktop\HZZH(1)\HZZH\HZZH\bin\Debug\HZZH.dll
+C:\Users\admin\Desktop\HZZH(1)\HZZH\HZZH\bin\Debug\log4net.dll
+C:\Users\admin\Desktop\HZZH(1)\HZZH\HZZH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\HZZH(1)\HZZH\HZZH\bin\Debug\Unme.Common.dll
+E:\汇众\HZZH\HZZH\HZZH\bin\Debug\HZZH.exe.config
+E:\汇众\HZZH\HZZH\HZZH\obj\Debug\HZZH.exe
+E:\汇众\HZZH\HZZH\HZZH\obj\Debug\HZZH.pdb
+E:\汇众\HZZH\HZZH\HZZH\bin\Debug\HZZH.exe
+E:\汇众\HZZH\HZZH\HZZH\bin\Debug\HZZH.pdb
+E:\汇众\HZZH\HZZH\HZZH\bin\Debug\HZZH.dll
+E:\汇众\HZZH\HZZH\HZZH\bin\Debug\log4net.dll
+E:\汇众\HZZH\HZZH\HZZH\bin\Debug\Newtonsoft.Json.dll
+E:\汇众\HZZH\HZZH\HZZH\bin\Debug\Unme.Common.dll
+E:\汇众\HZZH\HZZH\HZZH\obj\Debug\HZZH.Form1.resources
+E:\汇众\HZZH\HZZH\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+E:\汇众\HZZH\HZZH\HZZH\obj\Debug\HZZH.csproj.GenerateResource.Cache
+E:\微信企业版文件\WXWork\1688852650390553\Cache\File\2020-02\HZZH\HZZH\HZZH\bin\Debug\HZZH.exe.config
+E:\微信企业版文件\WXWork\1688852650390553\Cache\File\2020-02\HZZH\HZZH\HZZH\obj\Debug\HZZH.exe
+E:\微信企业版文件\WXWork\1688852650390553\Cache\File\2020-02\HZZH\HZZH\HZZH\obj\Debug\HZZH.pdb
+E:\微信企业版文件\WXWork\1688852650390553\Cache\File\2020-02\HZZH\HZZH\HZZH\obj\Debug\HZZH.Form1.resources
+E:\微信企业版文件\WXWork\1688852650390553\Cache\File\2020-02\HZZH\HZZH\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+E:\微信企业版文件\WXWork\1688852650390553\Cache\File\2020-02\HZZH\HZZH\HZZH\obj\Debug\HZZH.csproj.GenerateResource.Cache
+E:\微信企业版文件\WXWork\1688852650390553\Cache\File\2020-02\HZZH\HZZH\HZZH\bin\Debug\HZZH.exe
+E:\微信企业版文件\WXWork\1688852650390553\Cache\File\2020-02\HZZH\HZZH\HZZH\bin\Debug\HZZH.pdb
+E:\微信企业版文件\WXWork\1688852650390553\Cache\File\2020-02\HZZH\HZZH\HZZH\bin\Debug\HZZH.dll
+E:\微信企业版文件\WXWork\1688852650390553\Cache\File\2020-02\HZZH\HZZH\HZZH\bin\Debug\log4net.dll
+E:\微信企业版文件\WXWork\1688852650390553\Cache\File\2020-02\HZZH\HZZH\HZZH\bin\Debug\Newtonsoft.Json.dll
+E:\微信企业版文件\WXWork\1688852650390553\Cache\File\2020-02\HZZH\HZZH\HZZH\bin\Debug\Unme.Common.dll
+E:\微信企业版文件\WXWork\1688852650390553\Cache\File\2020-02\HZZH\HZZH\HZZH\obj\Debug\HZZH.csprojResolveAssemblyReference.cache
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位代码暂存\HZZH\bin\Debug\HZZH.exe.config
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位代码暂存\HZZH\bin\Debug\HZZH.exe
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位代码暂存\HZZH\bin\Debug\HZZH.pdb
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位代码暂存\HZZH\bin\Debug\HZZH.dll
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位代码暂存\HZZH\bin\Debug\log4net.dll
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位代码暂存\HZZH\bin\Debug\Newtonsoft.Json.dll
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位代码暂存\HZZH\bin\Debug\Unme.Common.dll
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位代码暂存\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位代码暂存\HZZH\obj\Debug\UI.Form_SubMain.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位代码暂存\HZZH\obj\Debug\UI.MainForm.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位代码暂存\HZZH\obj\Debug\HZZH.csproj.GenerateResource.Cache
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位代码暂存\HZZH\obj\Debug\HZZH.exe
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位代码暂存\HZZH\obj\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\超级点胶机上位\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\Administrator\Desktop\超级点胶机上位\HZZH\obj\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\超级点胶机上位\HZZH\obj\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\超级点胶机上位\HZZH\bin\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\超级点胶机上位\HZZH\bin\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\超级点胶机上位\HZZH\bin\Debug\HZZH.dll
+C:\Users\Administrator\Desktop\超级点胶机上位\HZZH\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\超级点胶机上位\HZZH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\超级点胶机上位\HZZH\bin\Debug\Unme.Common.dll
+C:\Users\Administrator\Desktop\超级点胶机上位\HZZH\obj\Debug\HZZH.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\超级点胶机上位\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\Administrator\Desktop\超级点胶机上位\HZZH\obj\Debug\UI.Frm_ChangePassword.resources
+C:\Users\Administrator\Desktop\超级点胶机上位\HZZH\obj\Debug\UI.Frm_Login.resources
+C:\Users\Administrator\Desktop\超级点胶机上位\HZZH\obj\Debug\UI.Form_SubMain.resources
+C:\Users\Administrator\Desktop\超级点胶机上位\HZZH\obj\Debug\UI.MainForm.resources
+C:\Users\Administrator\Desktop\超级点胶机上位\HZZH\obj\Debug\HZZH.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\超级点胶机上位对象版本\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\Administrator\Desktop\超级点胶机上位对象版本\HZZH\obj\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\超级点胶机上位对象版本\HZZH\obj\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\bin\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\bin\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\bin\Debug\Unme.Common.dll
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\obj\Debug\UI.Form_SubMain.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\obj\Debug\UI.MainForm.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\obj\Debug\HZZH.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\obj\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\obj\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\obj\Debug\HZZH.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\bin\Debug\HZZHController.dll
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本 - 副本\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本 - 副本\HZZH\obj\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本 - 副本\HZZH\obj\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\obj\Debug\MyControl.UserInfo.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\obj\Debug\MyControl.UserLogin.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\obj\Debug\UI.Form_Login.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\obj\Debug\UI.Form_ChangePassword.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\bin\Debug\MyControl.dll
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\bin\Debug\MyControl.pdb
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本\HZZH\obj\Debug\MyControl.InputOutput.resources
+C:\Users\Administrator\Desktop\C# 数据结构\超级点胶机上位动态归主版本1.0\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\Administrator\Desktop\C# 数据结构\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\C# 数据结构\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\bin\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\bin\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\bin\Debug\HZZHController.dll
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\bin\Debug\Unme.Common.dll
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\HZZH.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\MyControl.InputOutput.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\MyControl.UserInfo.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\MyControl.UserLogin.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\UI.Form_ChangePassword.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\UI.Form_Login.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\UI.Form_SubMain.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\UI.MainForm.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\HZZH.csproj.GenerateResource.Cache
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\HZZH.exe
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\HZZH.pdb
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\bin\Debug\HZZH.exe
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\bin\Debug\HZZH.pdb
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\bin\Debug\HZZHController.dll
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\bin\Debug\log4net.dll
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\bin\Debug\Unme.Common.dll
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\bin\Debug\MyControl.pdb
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\HZZH.csprojResolveAssemblyReference.cache
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\MyControl.InputOutput.resources
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\MyControl.UserInfo.resources
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\MyControl.UserLogin.resources
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\UI.Form_ChangePassword.resources
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\UI.Form_Login.resources
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\UI.Form_SubMain.resources
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\UI.MainForm.resources
+C:\Users\zyg03\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\HZZH.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\MyControl.UserMachinePrm.resources
+C:\Users\Administrator\Desktop\超级点胶机上位动态归主版本1.0\HZZH\obj\Debug\MyControl.Jog.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\bin\Debug\HZZH.exe.config
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\obj\Debug\HZZH.exe
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\obj\Debug\HZZH.pdb
+C:\Users\zyg03\Desktop\上位\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\zyg03\Desktop\上位\HZZH\obj\Debug\HZZH.exe
+C:\Users\zyg03\Desktop\上位\HZZH\obj\Debug\HZZH.pdb
+C:\Users\zyg03\Desktop\上位\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\zyg03\Desktop\上位\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+C:\Users\zyg03\Desktop\上位\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+C:\Users\zyg03\Desktop\上位\HZZH\obj\Debug\MyControl.InputOutput.resources
+C:\Users\zyg03\Desktop\上位\HZZH\obj\Debug\MyControl.Jog.resources
+C:\Users\zyg03\Desktop\上位\HZZH\obj\Debug\MyControl.UserInfo.resources
+C:\Users\zyg03\Desktop\上位\HZZH\obj\Debug\MyControl.UserLogin.resources
+C:\Users\zyg03\Desktop\上位\HZZH\obj\Debug\MyControl.UserMachinePrm.resources
+C:\Users\zyg03\Desktop\上位\HZZH\obj\Debug\UI.Form_ChangePassword.resources
+C:\Users\zyg03\Desktop\上位\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+C:\Users\zyg03\Desktop\上位\HZZH\obj\Debug\UI.Form_Login.resources
+C:\Users\zyg03\Desktop\上位\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+C:\Users\zyg03\Desktop\上位\HZZH\obj\Debug\UI.Form_SubMain.resources
+C:\Users\zyg03\Desktop\上位\HZZH\obj\Debug\UI.MainForm.resources
+C:\Users\zyg03\Desktop\上位\HZZH\obj\Debug\HZZH.csproj.GenerateResource.Cache
+C:\Users\zyg03\Desktop\上位\HZZH\bin\Debug\HZZH.exe
+C:\Users\zyg03\Desktop\上位\HZZH\bin\Debug\HZZH.pdb
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\bin\Debug\HZZH.exe.config
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\obj\Debug\HZZH.exe
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\obj\Debug\HZZH.pdb
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\obj\Debug\HZZH.csprojResolveAssemblyReference.cache
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\obj\Debug\MyControl.InputOutput.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\obj\Debug\MyControl.Jog.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\obj\Debug\MyControl.UserInfo.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\obj\Debug\MyControl.UserLogin.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\obj\Debug\MyControl.UserMachinePrm.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\obj\Debug\UI.Form_ChangePassword.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\obj\Debug\UI.Form_Login.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\obj\Debug\UI.Form_SubMain.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\obj\Debug\UI.MainForm.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\obj\Debug\HZZH.csproj.GenerateResource.Cache
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\bin\Debug\HZZH.exe
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\bin\Debug\HZZH.pdb
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\bin\Debug\HZZHController.dll
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\bin\Debug\log4net.dll
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\bin\Debug\Newtonsoft.Json.dll
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.1.16\上位\HZZH\bin\Debug\Unme.Common.dll
+C:\Users\Administrator\Desktop\上位\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\Administrator\Desktop\上位\HZZH\bin\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\上位\HZZH\bin\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\上位\HZZH\bin\Debug\HZZHController.dll
+C:\Users\Administrator\Desktop\上位\HZZH\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\上位\HZZH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\上位\HZZH\bin\Debug\Unme.Common.dll
+C:\Users\Administrator\Desktop\上位\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\Administrator\Desktop\上位\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+C:\Users\Administrator\Desktop\上位\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+C:\Users\Administrator\Desktop\上位\HZZH\obj\Debug\MyControl.InputOutput.resources
+C:\Users\Administrator\Desktop\上位\HZZH\obj\Debug\MyControl.Jog.resources
+C:\Users\Administrator\Desktop\上位\HZZH\obj\Debug\MyControl.UserInfo.resources
+C:\Users\Administrator\Desktop\上位\HZZH\obj\Debug\MyControl.UserLogin.resources
+C:\Users\Administrator\Desktop\上位\HZZH\obj\Debug\MyControl.UserMachinePrm.resources
+C:\Users\Administrator\Desktop\上位\HZZH\obj\Debug\UI.Form_ChangePassword.resources
+C:\Users\Administrator\Desktop\上位\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+C:\Users\Administrator\Desktop\上位\HZZH\obj\Debug\UI.Form_Login.resources
+C:\Users\Administrator\Desktop\上位\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+C:\Users\Administrator\Desktop\上位\HZZH\obj\Debug\UI.Form_SubMain.resources
+C:\Users\Administrator\Desktop\上位\HZZH\obj\Debug\UI.MainForm.resources
+C:\Users\Administrator\Desktop\上位\HZZH\obj\Debug\HZZH.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\上位\HZZH\obj\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\上位\HZZH\obj\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\上位\HZZH\obj\Debug\HZZH.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\上位\HZZH\bin\Debug\HZZHController.pdb
+C:\Users\Administrator\Desktop\上位\HZZH\bin\Debug\HZZHController.xml
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\obj\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\obj\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\obj\Debug\HZZH.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\obj\Debug\MyControl.InputOutput.resources
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\obj\Debug\MyControl.UserMachinePrm.resources
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\obj\Debug\MyControl.Jog.resources
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\obj\Debug\MyControl.UserInfo.resources
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\obj\Debug\MyControl.UserLogin.resources
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\obj\Debug\UI.Form_ChangePassword.resources
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\obj\Debug\UI.Form_Login.resources
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\obj\Debug\UI.Form_SubMain.resources
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\obj\Debug\UI.MainForm.resources
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\obj\Debug\HZZH.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\bin\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\bin\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\bin\Debug\HZZHController.dll
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\bin\Debug\Unme.Common.dll
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\bin\Debug\HZZHController.pdb
+C:\Users\Administrator\Desktop\上位 - 副本\HZZH\bin\Debug\HZZHController.xml
+C:\Users\Administrator\Desktop\上位调度\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\Administrator\Desktop\上位调度\HZZH\obj\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\上位调度\HZZH\obj\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\上位调度\HZZH\bin\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\上位调度\HZZH\bin\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\上位调度\HZZH\bin\Debug\HZZHController.dll
+C:\Users\Administrator\Desktop\上位调度\HZZH\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\上位调度\HZZH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\上位调度\HZZH\bin\Debug\Unme.Common.dll
+C:\Users\Administrator\Desktop\上位调度\HZZH\bin\Debug\HZZHController.pdb
+C:\Users\Administrator\Desktop\上位调度\HZZH\bin\Debug\HZZHController.xml
+C:\Users\Administrator\Desktop\上位调度\HZZH\obj\Debug\HZZH.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\上位调度\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\Administrator\Desktop\上位调度\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+C:\Users\Administrator\Desktop\上位调度\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+C:\Users\Administrator\Desktop\上位调度\HZZH\obj\Debug\MyControl.InputOutput.resources
+C:\Users\Administrator\Desktop\上位调度\HZZH\obj\Debug\MyControl.UserMachinePrm.resources
+C:\Users\Administrator\Desktop\上位调度\HZZH\obj\Debug\MyControl.Jog.resources
+C:\Users\Administrator\Desktop\上位调度\HZZH\obj\Debug\MyControl.UserInfo.resources
+C:\Users\Administrator\Desktop\上位调度\HZZH\obj\Debug\MyControl.UserLogin.resources
+C:\Users\Administrator\Desktop\上位调度\HZZH\obj\Debug\UI.Form_ChangePassword.resources
+C:\Users\Administrator\Desktop\上位调度\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+C:\Users\Administrator\Desktop\上位调度\HZZH\obj\Debug\UI.Form_Login.resources
+C:\Users\Administrator\Desktop\上位调度\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+C:\Users\Administrator\Desktop\上位调度\HZZH\obj\Debug\UI.Form_SubMain.resources
+C:\Users\Administrator\Desktop\上位调度\HZZH\obj\Debug\UI.MainForm.resources
+C:\Users\Administrator\Desktop\上位调度\HZZH\obj\Debug\HZZH.csproj.GenerateResource.Cache
+C:\Users\zyg03\Desktop\上位调度\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\zyg03\Desktop\上位调度\HZZH\obj\Debug\HZZH.exe
+C:\Users\zyg03\Desktop\上位调度\HZZH\obj\Debug\HZZH.pdb
+C:\Users\zyg03\Desktop\上位调度\HZZH\bin\Debug\HZZH.exe
+C:\Users\zyg03\Desktop\上位调度\HZZH\bin\Debug\HZZH.pdb
+C:\Users\zyg03\Desktop\上位调度\HZZH\bin\Debug\HZZHController.pdb
+C:\Users\zyg03\Desktop\上位调度\HZZH\bin\Debug\HZZHController.xml
+C:\Users\zyg03\Desktop\上位调度\HZZH\obj\Debug\HZZH.csprojResolveAssemblyReference.cache
+C:\Users\zyg03\Desktop\上位调度\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\zyg03\Desktop\上位调度\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+C:\Users\zyg03\Desktop\上位调度\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+C:\Users\zyg03\Desktop\上位调度\HZZH\obj\Debug\MyControl.InputOutput.resources
+C:\Users\zyg03\Desktop\上位调度\HZZH\obj\Debug\MyControl.UserMachinePrm.resources
+C:\Users\zyg03\Desktop\上位调度\HZZH\obj\Debug\MyControl.Jog.resources
+C:\Users\zyg03\Desktop\上位调度\HZZH\obj\Debug\MyControl.UserInfo.resources
+C:\Users\zyg03\Desktop\上位调度\HZZH\obj\Debug\MyControl.UserLogin.resources
+C:\Users\zyg03\Desktop\上位调度\HZZH\obj\Debug\UI.Form_ChangePassword.resources
+C:\Users\zyg03\Desktop\上位调度\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+C:\Users\zyg03\Desktop\上位调度\HZZH\obj\Debug\UI.Form_Login.resources
+C:\Users\zyg03\Desktop\上位调度\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+C:\Users\zyg03\Desktop\上位调度\HZZH\obj\Debug\UI.Form_SubMain.resources
+C:\Users\zyg03\Desktop\上位调度\HZZH\obj\Debug\UI.MainForm.resources
+C:\Users\zyg03\Desktop\上位调度\HZZH\obj\Debug\HZZH.csproj.GenerateResource.Cache
+C:\Users\YaoCong\Desktop\超级点胶机2020.2.22\上位调度\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\YaoCong\Desktop\超级点胶机2020.2.22\上位调度\HZZH\obj\Debug\HZZH.exe
+C:\Users\YaoCong\Desktop\超级点胶机2020.2.22\上位调度\HZZH\obj\Debug\HZZH.pdb
+C:\Users\澳胜\Desktop\超级点胶机2020.2.22\超级点胶机2020.2.22\HZZH\bin\Debug\HZZH.exe
+C:\Users\澳胜\Desktop\超级点胶机2020.2.22\超级点胶机2020.2.22\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\澳胜\Desktop\超级点胶机2020.2.22\超级点胶机2020.2.22\HZZH\obj\Debug\HZZH.csprojResolveAssemblyReference.cache
+C:\Users\澳胜\Desktop\超级点胶机2020.2.22\超级点胶机2020.2.22\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\澳胜\Desktop\超级点胶机2020.2.22\超级点胶机2020.2.22\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+C:\Users\澳胜\Desktop\超级点胶机2020.2.22\超级点胶机2020.2.22\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+C:\Users\澳胜\Desktop\超级点胶机2020.2.22\超级点胶机2020.2.22\HZZH\obj\Debug\MyControl.InputOutput.resources
+C:\Users\澳胜\Desktop\超级点胶机2020.2.22\超级点胶机2020.2.22\HZZH\obj\Debug\MyControl.UserMachinePrm.resources
+C:\Users\澳胜\Desktop\超级点胶机2020.2.22\超级点胶机2020.2.22\HZZH\obj\Debug\MyControl.Jog.resources
+C:\Users\澳胜\Desktop\超级点胶机2020.2.22\超级点胶机2020.2.22\HZZH\obj\Debug\MyControl.UserInfo.resources
+C:\Users\澳胜\Desktop\超级点胶机2020.2.22\超级点胶机2020.2.22\HZZH\obj\Debug\MyControl.UserLogin.resources
+C:\Users\澳胜\Desktop\超级点胶机2020.2.22\超级点胶机2020.2.22\HZZH\obj\Debug\UI.Form_ChangePassword.resources
+C:\Users\澳胜\Desktop\超级点胶机2020.2.22\超级点胶机2020.2.22\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+C:\Users\澳胜\Desktop\超级点胶机2020.2.22\超级点胶机2020.2.22\HZZH\obj\Debug\UI.Form_Login.resources
+C:\Users\澳胜\Desktop\超级点胶机2020.2.22\超级点胶机2020.2.22\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+C:\Users\澳胜\Desktop\超级点胶机2020.2.22\超级点胶机2020.2.22\HZZH\obj\Debug\UI.Form_SubMain.resources
+C:\Users\澳胜\Desktop\超级点胶机2020.2.22\超级点胶机2020.2.22\HZZH\obj\Debug\UI.MainForm.resources
+C:\Users\澳胜\Desktop\超级点胶机2020.2.22\超级点胶机2020.2.22\HZZH\obj\Debug\HZZH.csproj.GenerateResource.Cache
+C:\Users\澳胜\Desktop\超级点胶机2020.2.22\超级点胶机2020.2.22\HZZH\obj\Debug\HZZH.exe
+C:\Users\澳胜\Desktop\超级点胶机2020.2.22\超级点胶机2020.2.22\HZZH\obj\Debug\HZZH.pdb
+C:\Users\澳胜\Desktop\超级点胶机2020.2.22\超级点胶机2020.2.22\HZZH\bin\Debug\HZZH.pdb
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\bin\Debug\HZZH.exe
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\bin\Debug\HZZH.pdb
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\bin\Debug\Newtonsoft.Json.dll
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\obj\Debug\MyControl.InputOutput.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\obj\Debug\MyControl.UserMachinePrm.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\obj\Debug\MyControl.Jog.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\obj\Debug\MyControl.UserInfo.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\obj\Debug\MyControl.UserLogin.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\obj\Debug\UI.Form_ChangePassword.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\obj\Debug\UI.Form_Login.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\obj\Debug\UI.Form_SubMain.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\obj\Debug\UI.MainForm.resources
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\obj\Debug\HZZH.csproj.GenerateResource.Cache
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\bin\Debug\CSkin.dll
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\bin\Debug\halcondotnet.dll
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\bin\Debug\HZZHController.dll
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\bin\Debug\log4net.dll
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\bin\Debug\Unme.Common.dll
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\bin\Debug\halcondotnet.xml
+D:\Project\ZYG\超级点胶机\朝阳光-超级点胶机-源码-2020.2.21\上位\HZZH\obj\Debug\HZZH.csprojResolveAssemblyReference.cache
+C:\Users\zyg03\Desktop\上位\HZZH\bin\Debug\CSkin.dll
+C:\Users\zyg03\Desktop\上位\HZZH\bin\Debug\HZZHController.dll
+C:\Users\zyg03\Desktop\上位\HZZH\bin\Debug\log4net.dll
+C:\Users\zyg03\Desktop\上位\HZZH\bin\Debug\Unme.Common.dll
+C:\Users\zyg03\Desktop\上位\HZZH\obj\Debug\HZZH.csprojResolveAssemblyReference.cache
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\obj\Debug\HZZH.exe
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\obj\Debug\HZZH.pdb
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\bin\Debug\HZZH.exe
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\bin\Debug\HZZH.pdb
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\bin\Debug\CSkin.dll
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\bin\Debug\HZZHController.dll
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\bin\Debug\log4net.dll
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\bin\Debug\Unme.Common.dll
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\obj\Debug\HZZH.csprojResolveAssemblyReference.cache
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\obj\Debug\MyControl.InputOutput.resources
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\obj\Debug\MyControl.UserMachinePrm.resources
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\obj\Debug\MyControl.Jog.resources
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\obj\Debug\MyControl.UserInfo.resources
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\obj\Debug\MyControl.UserLogin.resources
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\obj\Debug\UI.Form_ChangePassword.resources
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\obj\Debug\UI.Form_Login.resources
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\obj\Debug\UI.Form_SubMain.resources
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\obj\Debug\UI.MainForm.resources
+C:\Users\zyg03\Desktop\上位 2020.2.24\HZZH\obj\Debug\HZZH.csproj.GenerateResource.Cache
+C:\Users\YaoCong\Desktop\超点上位 2020.2.24\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\YaoCong\Desktop\超点上位 2020.2.24\HZZH\obj\Debug\HZZH.exe
+C:\Users\YaoCong\Desktop\超点上位 2020.2.24\HZZH\obj\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\obj\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\obj\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\bin\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\bin\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\bin\Debug\CSkin.dll
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\bin\Debug\halcondotnet.dll
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\bin\Debug\HZZHController.dll
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\bin\Debug\Unme.Common.dll
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\bin\Debug\halcondotnet.xml
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\obj\Debug\HZZH.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\obj\Debug\MyControl.InputOutput.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\obj\Debug\MyControl.UserMachinePrm.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\obj\Debug\MyControl.Jog.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\obj\Debug\MyControl.UserInfo.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\obj\Debug\MyControl.UserLogin.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\obj\Debug\UI.Form_ChangePassword.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\obj\Debug\UI.Form_Login.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\obj\Debug\UI.Form_SubMain.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\obj\Debug\UI.MainForm.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.24\HZZH\obj\Debug\HZZH.csproj.GenerateResource.Cache
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\obj\Debug\HZZH.exe
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\obj\Debug\HZZH.pdb
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\bin\Debug\HZZH.exe
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\bin\Debug\HZZH.pdb
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\bin\Debug\CSkin.dll
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\bin\Debug\HZZHController.dll
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\bin\Debug\log4net.dll
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\bin\Debug\Unme.Common.dll
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\obj\Debug\MyControl.InputOutput.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\obj\Debug\MyControl.UserMachinePrm.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\obj\Debug\MyControl.Jog.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\obj\Debug\MyControl.UserInfo.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\obj\Debug\MyControl.UserLogin.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\obj\Debug\UI.Form_ChangePassword.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\obj\Debug\UI.Form_Login.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\obj\Debug\UI.Form_SubMain.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\obj\Debug\UI.MainForm.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\obj\Debug\HZZH.csproj.GenerateResource.Cache
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\bin\Debug\halcondotnet.dll
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\bin\Debug\halcondotnet.xml
+C:\Users\zyg03\Desktop\超点上位 2020.2.26\HZZH\obj\Debug\HZZH.csprojResolveAssemblyReference.cache
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\obj\Debug\HZZH.exe
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\obj\Debug\HZZH.pdb
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\bin\Debug\HZZH.exe
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\bin\Debug\HZZH.pdb
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\bin\Debug\CSkin.dll
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\bin\Debug\halcondotnet.dll
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\bin\Debug\HZZHController.dll
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\bin\Debug\log4net.dll
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\bin\Debug\Unme.Common.dll
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\bin\Debug\halcondotnet.xml
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\obj\Debug\HZZH.csprojResolveAssemblyReference.cache
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\obj\Debug\MyControl.InputOutput.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\obj\Debug\MyControl.UserMachinePrm.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\obj\Debug\MyControl.Jog.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\obj\Debug\MyControl.UserInfo.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\obj\Debug\MyControl.UserLogin.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\obj\Debug\UI.Form_ChangePassword.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\obj\Debug\UI.Form_Login.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\obj\Debug\UI.Form_SubMain.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\obj\Debug\UI.MainForm.resources
+C:\Users\zyg03\Desktop\超点上位 2020.2.27\HZZH\obj\Debug\HZZH.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\obj\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\obj\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\bin\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\bin\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\bin\Debug\CSkin.dll
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\bin\Debug\halcondotnet.dll
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\bin\Debug\HZZHController.dll
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\bin\Debug\Unme.Common.dll
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\bin\Debug\halcondotnet.xml
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\obj\Debug\HZZH.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\obj\Debug\MyControl.InputOutput.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\obj\Debug\MyControl.UserMachinePrm.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\obj\Debug\MyControl.Jog.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\obj\Debug\MyControl.UserInfo.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\obj\Debug\MyControl.UserLogin.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\obj\Debug\UI.Form_ChangePassword.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\obj\Debug\UI.Form_Login.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\obj\Debug\UI.Form_SubMain.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\obj\Debug\UI.MainForm.resources
+C:\Users\Administrator\Desktop\超点上位 2020.2.28\HZZH\obj\Debug\HZZH.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\上位新架构\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\Administrator\Desktop\上位新架构\HZZH\obj\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\上位新架构\HZZH\obj\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\上位新架构\HZZH\bin\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\上位新架构\HZZH\bin\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\上位新架构\HZZH\bin\Debug\halcondotnet.dll
+C:\Users\Administrator\Desktop\上位新架构\HZZH\bin\Debug\halcondotnet.xml
+C:\Users\Administrator\Desktop\上位新架构\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\Administrator\Desktop\上位新架构\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+C:\Users\Administrator\Desktop\上位新架构\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+C:\Users\Administrator\Desktop\上位新架构\HZZH\obj\Debug\MyControl.InputOutput.resources
+C:\Users\Administrator\Desktop\上位新架构\HZZH\obj\Debug\MyControl.UserMachinePrm.resources
+C:\Users\Administrator\Desktop\上位新架构\HZZH\obj\Debug\MyControl.Jog.resources
+C:\Users\Administrator\Desktop\上位新架构\HZZH\obj\Debug\MyControl.UserInfo.resources
+C:\Users\Administrator\Desktop\上位新架构\HZZH\obj\Debug\MyControl.UserLogin.resources
+C:\Users\Administrator\Desktop\上位新架构\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+C:\Users\Administrator\Desktop\上位新架构\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+C:\Users\Administrator\Desktop\上位新架构\HZZH\obj\Debug\HZZH.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\上位新架构\HZZH\obj\Debug\HZZH.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\上位新架构\HZZH\obj\Debug\HZZH.csproj.CopyComplete
+C:\Users\Administrator\Desktop\上位新架构\HZZH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\上位新架构\HZZH\obj\Debug\UI.frm_SplashScreen.resources
+C:\Users\Administrator\Desktop\上位新架构\HZZH\obj\Debug\UI.FormMain.resources
+C:\Users\Administrator\Desktop\上位新架构\HZZH\obj\Debug\MyControl.FormLog.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\bin\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\bin\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\bin\Debug\halcondotnet.dll
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\bin\Debug\halcondotnet.xml
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\obj\Debug\HZZH.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\obj\Debug\MyControl.FormLog.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\obj\Debug\UI.frm_SplashScreen.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\obj\Debug\MyControl.InputOutput.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\obj\Debug\MyControl.UserMachinePrm.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\obj\Debug\MyControl.Jog.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\obj\Debug\MyControl.UserInfo.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\obj\Debug\MyControl.UserLogin.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\obj\Debug\UI.FormMain.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\obj\Debug\HZZH.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\obj\Debug\HZZH.csproj.CopyComplete
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\obj\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\安德瑞贴膜机\HZZH\obj\Debug\HZZH.pdb
+D:\汇众\新人学习资料\安德瑞贴膜机\HZZH\bin\Debug\HZZH.exe.config
+D:\汇众\新人学习资料\安德瑞贴膜机\HZZH\obj\Debug\HZZH.exe
+D:\汇众\新人学习资料\安德瑞贴膜机\HZZH\obj\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\bin\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\bin\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\bin\Debug\halcondotnet.dll
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\bin\Debug\halcondotnet.xml
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\obj\Debug\HZZH.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\obj\Debug\MyControl.FormLog.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\obj\Debug\UI.frm_SplashScreen.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\obj\Debug\MyControl.InputOutput.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\obj\Debug\MyControl.UserMachinePrm.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\obj\Debug\MyControl.Jog.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\obj\Debug\MyControl.UserInfo.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\obj\Debug\MyControl.UserLogin.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\obj\Debug\UI.FormMain.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\obj\Debug\HZZH.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\obj\Debug\HZZH.csproj.CopyComplete
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\obj\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408\HZZH\obj\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\bin\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\bin\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\bin\Debug\halcondotnet.dll
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\bin\Debug\halcondotnet.xml
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\obj\Debug\HZZH.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\obj\Debug\MyControl.FormLog.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\obj\Debug\UI.frm_SplashScreen.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\obj\Debug\MyControl.InputOutput.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\obj\Debug\MyControl.UserMachinePrm.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\obj\Debug\MyControl.Jog.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\obj\Debug\MyControl.UserInfo.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\obj\Debug\MyControl.UserLogin.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\obj\Debug\UI.FormMain.resources
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\obj\Debug\HZZH.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\obj\Debug\HZZH.csproj.CopyComplete
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\obj\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\安德瑞贴膜机0408 - 副本\HZZH\obj\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\上位机标准\HZZH\obj\Debug\MyControl.FormLog.resources
+C:\Users\Administrator\Desktop\上位机标准\HZZH\obj\Debug\UI.frm_SplashScreen.resources
+C:\Users\Administrator\Desktop\上位机标准\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\Administrator\Desktop\上位机标准\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+C:\Users\Administrator\Desktop\上位机标准\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+C:\Users\Administrator\Desktop\上位机标准\HZZH\obj\Debug\MyControl.InputOutput.resources
+C:\Users\Administrator\Desktop\上位机标准\HZZH\obj\Debug\MyControl.UserMachinePrm.resources
+C:\Users\Administrator\Desktop\上位机标准\HZZH\obj\Debug\MyControl.Jog.resources
+C:\Users\Administrator\Desktop\上位机标准\HZZH\obj\Debug\MyControl.UserInfo.resources
+C:\Users\Administrator\Desktop\上位机标准\HZZH\obj\Debug\MyControl.UserLogin.resources
+C:\Users\Administrator\Desktop\上位机标准\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+C:\Users\Administrator\Desktop\上位机标准\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+C:\Users\Administrator\Desktop\上位机标准\HZZH\obj\Debug\UI.FormMain.resources
+C:\Users\Administrator\Desktop\上位机标准\HZZH\obj\Debug\HZZH.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\上位机标准\HZZH\obj\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\上位机标准\HZZH\obj\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\上位机标准\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\Administrator\Desktop\上位机标准\HZZH\bin\Debug\HZZH.exe
+C:\Users\Administrator\Desktop\上位机标准\HZZH\bin\Debug\HZZH.pdb
+C:\Users\Administrator\Desktop\上位机标准\HZZH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\上位机标准\HZZH\obj\Debug\HZZH.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\上位机标准\HZZH\obj\Debug\HZZH.csproj.CopyComplete
+D:\wurui\work\其他\上位机标准\HZZH\bin\Debug\HZZH.exe.config
+D:\wurui\work\其他\上位机标准\HZZH\bin\Debug\HZZH.exe
+D:\wurui\work\其他\上位机标准\HZZH\bin\Debug\HZZH.pdb
+D:\wurui\work\其他\上位机标准\HZZH\bin\Debug\Newtonsoft.Json.dll
+D:\wurui\work\其他\上位机标准\HZZH\obj\Debug\HZZH.csprojAssemblyReference.cache
+D:\wurui\work\其他\上位机标准\HZZH\obj\Debug\MyControl.FormLog.resources
+D:\wurui\work\其他\上位机标准\HZZH\obj\Debug\UI.frm_SplashScreen.resources
+D:\wurui\work\其他\上位机标准\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+D:\wurui\work\其他\上位机标准\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+D:\wurui\work\其他\上位机标准\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+D:\wurui\work\其他\上位机标准\HZZH\obj\Debug\MyControl.InputOutput.resources
+D:\wurui\work\其他\上位机标准\HZZH\obj\Debug\MyControl.UserMachinePrm.resources
+D:\wurui\work\其他\上位机标准\HZZH\obj\Debug\MyControl.Jog.resources
+D:\wurui\work\其他\上位机标准\HZZH\obj\Debug\MyControl.UserInfo.resources
+D:\wurui\work\其他\上位机标准\HZZH\obj\Debug\MyControl.UserLogin.resources
+D:\wurui\work\其他\上位机标准\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+D:\wurui\work\其他\上位机标准\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+D:\wurui\work\其他\上位机标准\HZZH\obj\Debug\UI.FormMain.resources
+D:\wurui\work\其他\上位机标准\HZZH\obj\Debug\HZZH.csproj.GenerateResource.cache
+D:\wurui\work\其他\上位机标准\HZZH\obj\Debug\HZZH.csproj.CoreCompileInputs.cache
+D:\wurui\work\其他\上位机标准\HZZH\obj\Debug\HZZH.csproj.CopyComplete
+D:\wurui\work\其他\上位机标准\HZZH\obj\Debug\HZZH.exe
+D:\wurui\work\其他\上位机标准\HZZH\obj\Debug\HZZH.pdb
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\obj\Debug\HZZH.csprojAssemblyReference.cache
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\obj\Debug\MyControl.FormLog.resources
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\obj\Debug\UI.frm_SplashScreen.resources
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\obj\Debug\MyControl.InputOutput.resources
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\obj\Debug\MyControl.UserMachinePrm.resources
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\obj\Debug\MyControl.Jog.resources
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\obj\Debug\MyControl.UserInfo.resources
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\obj\Debug\MyControl.UserLogin.resources
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\obj\Debug\UI.FormMain.resources
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\obj\Debug\HZZH.csproj.GenerateResource.cache
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\obj\Debug\HZZH.csproj.CoreCompileInputs.cache
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\obj\Debug\HZZH.exe
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\obj\Debug\HZZH.pdb
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\bin\Debug\HZZH.exe
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\bin\Debug\HZZH.pdb
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\obj\Debug\HZZH.csproj.CopyComplete
