@@ -8,7 +8,7 @@ namespace Common
     /// </summary>
     [Serializable]
     [StructLayoutAttribute(LayoutKind.Sequential, CharSet = CharSet.Ansi, Pack = 1)]
-    public class PointF2 
+    public class PointF2
     {
         public float X { get; set; }
         public float Y { get; set; }
@@ -19,7 +19,7 @@ namespace Common
     /// </summary>
     [Serializable]
     [StructLayoutAttribute(LayoutKind.Sequential, CharSet = CharSet.Ansi, Pack = 1)]
-    public class PointF3 
+    public class PointF3
     {
         public float X { get; set; }
         public float Y { get; set; }
@@ -30,14 +30,138 @@ namespace Common
     /// </summary>
     [Serializable]
     [StructLayoutAttribute(LayoutKind.Sequential, CharSet = CharSet.Ansi, Pack = 1)]
-    public class PointF4
+    public class PointF4 : ICloneable
     {
         public float X { get; set; }
         public float Y { get; set; }
         public float Z { get; set; }
         public float R { get; set; }
+        public override string ToString()
+        {
+            return string.Format("[X={0},Y={1},Z={2},R={3}]", X, Y, Z, R);
+        }
+        object ICloneable.Clone()
+        {
+            PointF4 f4 = new PointF4();
+            f4.X = this.X;
+            f4.Y = this.Y;
+            f4.Z = this.Z;
+            f4.R = this.R;
+            return f4;
+        }
+        public PointF4 Clone()
+        {
+            return (PointF4)((ICloneable)this).Clone();
+        }
     }
+    /*****************************具体项目需要的数据类型*******************************/
+    /// <summary>
+    /// 项目数据1
+    /// </summary>
+    [Serializable]
+    [StructLayoutAttribute(LayoutKind.Sequential, CharSet = CharSet.Ansi, Pack = 1)]
+    public class PointF5
+    {
+        public float X { get; set; }
+        public float Y { get; set; }
+        public float Z { get; set; }
+        public float R { get; set; }
+        public float T { get; set; }//翻转轴
+    }
+    /// <summary>
+    /// 项目数据2
+    /// </summary>
+    [Serializable]
+    [StructLayoutAttribute(LayoutKind.Sequential, CharSet = CharSet.Ansi, Pack = 1)]
+    public class wPointF : ICloneable
+    {
+        public bool enable { get; set; }
+        public int templateIndex { get; set; }
+        public float X { get; set; }
+        public float Y { get; set; }
+        public float T { get; set; }//翻转轴
+        public wPointF()
+        {
+            enable = true;
+            templateIndex = -1;
+            X = 0;
+            Y = 0;
+            T = 0;
+        }
+        object ICloneable.Clone()
+        {
+            wPointF wp = new wPointF();
+            wp.enable = this.enable;
+            wp.templateIndex = this.templateIndex;
+            wp.X = this.X;
+            wp.Y = this.Y;
+            wp.T = this.T;
+            return wp;
+        }
+        public wPointF Clone()
+        {
+            return (wPointF)((ICloneable)this).Clone();
+        }
+    }
+    /// <summary>
+    /// 项目数据3
+    /// </summary>
+    [Serializable]
+    [StructLayout(LayoutKind.Sequential, CharSet = CharSet.Ansi, Pack = 1)]
+    public class RstPos
+    {
+        public bool modeChecked
+        {
+            get { return mode > 0 ? true : false; }
+            set
+            {
+                if (value)
+                {
+                    mode = 1;
+                }
+                else
+                {
+                    mode = 0;
+                }
+            }
+        }
+        public int mode { get; set; }
+        public float X { get; set; }
+        public float Z { get; set; }
+        public float R { get; set; }
 
+    }
+    [Serializable]
+    [StructLayout(LayoutKind.Sequential, CharSet = CharSet.Ansi, Pack = 1)]
+    public class TMPos
+    {
+        public float X { get; set; }
+        public float Z { get; set; }
+        public float R { get; set; }
+    }
+    [Serializable]
+    [StructLayoutAttribute(LayoutKind.Sequential, CharSet = CharSet.Ansi, Pack = 1)]
+    public class RstPos_S
+    {
+        public bool modeChecked
+        {
+            get { return mode > 0 ? true : false; }
+            set
+            {
+                if (value)
+                { mode = 1; }
+                else
+                { mode = 0; }
+            }
+        }
+        public int mode { get; set; }
+        public float X { get; set; }
+        public float Y { get; set; }
+        public float Z { get; set; }
+        public float R { get; set; }
+        public float T { get; set; }//翻转轴
+    }
+    /******************************************************************************/
     /// <summary>
     /// Combobox绑定显示类
     /// </summary>

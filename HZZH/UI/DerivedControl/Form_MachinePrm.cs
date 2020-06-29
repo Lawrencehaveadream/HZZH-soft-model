@@ -54,7 +54,8 @@ namespace MyControl
             try
             {                
                 SavePrmData();
-                DownMotorPrmToSlave();           
+                DownMotorPrmToSlave();
+                movedriverZm.WriteRegister(new BaseData(1100, new int[] { 2}));
             }
             catch (Exception ex)
             {

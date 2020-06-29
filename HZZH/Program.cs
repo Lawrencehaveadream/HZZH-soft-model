@@ -7,6 +7,10 @@ using System.Threading;
 using System.Collections;
 using System.Text;
 
+using ApiClass;
+using LicenseManagement;
+using System.IO;
+
 namespace UI
 {
     public static class MySort
@@ -37,6 +41,7 @@ namespace UI
     //使用方法:定义一个启动类，应用程序从启动类启动，该类会使用继承自启动窗体虚基类的一个启动窗体类，在该类中定义启动窗体和主窗体。启动窗体和主窗体的代码略去，注意要删除机器生成的窗体代码的Main方法部分。
     public class StartUpClass
     {
+        public static IntPtr handle = IntPtr.Zero;
         [STAThread]
         static void Main()
         {
@@ -48,6 +53,110 @@ namespace UI
                 MessageBox.Show("程序正在运行");
                 return;
             }
+            #region  加密狗运行  
+
+#if DEBUG
+            if (Api.LoginSafeDog(ref handle) != 0) //
+            {
+                MessageBox.Show("启动失败：Dog不存在或不匹配");
+            }
+            else
+            {
+                string strdogmsg = Api.ReadDog(0, handle);
+                if (strdogmsg == string.Empty)
+                {
+
+                    Application.ApplicationExit += Application_ApplicationExit;
+                    Application.SetUnhandledExceptionMode(UnhandledExceptionMode.CatchException);
+                    Application.ThreadException += new ThreadExceptionEventHandler(Application_ThreadException);
+                    AppDomain.CurrentDomain.UnhandledException += new UnhandledExceptionEventHandler(CurrentDomain_UnhandledException);
+                    Application.EnableVisualStyles();
+                    Application.SetCompatibleTextRenderingDefault(false);
+
+                    string strpr = System.Diagnostics.Process.GetCurrentProcess().ProcessName;
+                    System.Diagnostics.Process[] process = System.Diagnostics.Process.GetProcessesByName(strpr);
+                    if (process.Length > 1)
+                    {
+                        MessageBox.Show("程序已经在运行中", "系统提示", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        Application.Exit();
+                    }
+                    else
+                    {
+                        try
+                        {
+                            Application.Run(new mycontext());
+                        }
+                        catch (Exception ex)
+                        {
+                            MessageBox.Show(ex.ToString());
+                        }
+                    }
+
+                }
+                else
+                {
+                    if (!File.Exists(@"armcc01_intr"))
+                    {
+                        MessageBox.Show("启动失败：加密文件丢失");
+                    }
+                    else
+                    {
+                        try
+                        {
+                            string dogHID = AESHelper.DecryptStr(LicenseMsg.readMachineLicense(@"armcc01_intr"));
+
+                            string term0 = AESHelper.Decrypt(strdogmsg, "qwertyuiop");
+                            string dogcpu = term0.Substring(0, 8);
+
+                            string term1 = Api.ReadDog(128, handle);
+
+                            string term2 = AESHelper.Decrypt(term1, "qwertyuiop");
+                            string machinecpu = term2.Substring(0, 8);
+
+                            if (dogHID.CompareTo(dogcpu) == 0 && dogHID.CompareTo(machinecpu) == 0)
+                            {
+                                Application.ApplicationExit += Application_ApplicationExit;
+                                Application.SetUnhandledExceptionMode(UnhandledExceptionMode.CatchException);
+                                Application.ThreadException += new ThreadExceptionEventHandler(Application_ThreadException);
+                                AppDomain.CurrentDomain.UnhandledException += new UnhandledExceptionEventHandler(CurrentDomain_UnhandledException);
+                                Application.EnableVisualStyles();
+                                Application.SetCompatibleTextRenderingDefault(false);
+
+                                string strpr = System.Diagnostics.Process.GetCurrentProcess().ProcessName;
+                                System.Diagnostics.Process[] process = System.Diagnostics.Process.GetProcessesByName(strpr);
+
+                                if (process.Length > 1)
+                                {
+                                    MessageBox.Show("程序已经在运行中", "系统提示", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                                    Application.Exit();
+                                }
+                                else
+                                {
+                                    try
+                                    {
+                                        Application.Run(new mycontext());
+                                    }
+                                    catch (Exception ex)
+                                    {
+                                        MessageBox.Show(ex.ToString());
+                                    }
+                                }
+                            }
+                            else
+                            {
+                                MessageBox.Show("启动失败：电脑不匹配：" + "请联系厂家");
+                            }
+                        }
+                        catch (Exception ex)
+                        {
+                            MessageBox.Show("启动失败：Dog参数文件被手动修改" + ex.Message + "/" + "请联系厂家");
+                        }
+                    }
+
+                }
+
+            }
+#else
             Application.ApplicationExit += Application_ApplicationExit;
             Application.SetUnhandledExceptionMode(UnhandledExceptionMode.CatchException);
             Application.ThreadException += new ThreadExceptionEventHandler(Application_ThreadException);
@@ -56,18 +165,25 @@ namespace UI
             Application.SetCompatibleTextRenderingDefault(false);
             try
             {
-                 Application.Run(new mycontext());
+                Application.Run(new mycontext());
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.ToString());
-            }           
+            }
+#endif
+            #endregion
+
+
+
+
+
         }
 
 
         private static void Application_ApplicationExit(object sender, EventArgs e)
         {
-            Config.ConfigHandle.Instance.Save();
+            //Config.ConfigHandle.Instance.Save();
         }
 
         private static void Application_ThreadException(object sender, ThreadExceptionEventArgs e)

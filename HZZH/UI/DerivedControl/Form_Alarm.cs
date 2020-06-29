@@ -64,10 +64,11 @@ namespace MyControl
             dataGridView1.Columns[2].CellTemplate.Style = dataGridViewCellStyle;
             dataGridView1.Columns[2].SortMode = DataGridViewColumnSortMode.NotSortable;
             dataGridView1.Columns[2].ReadOnly = true;
-            
+
+            //dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
             dataGridView1.MultiSelect = false;
             dataGridView1.RowsDefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
-          
+            //dataGridView1.EditMode = System.Windows.Forms.DataGridViewEditMode.EditOnEnter;
             dataGridView1.AllowUserToResizeColumns = false;
             dataGridView1.AllowUserToResizeRows = false;
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
@@ -81,6 +82,7 @@ namespace MyControl
             {
                 string[] str = new string[]
                 {
+                    //v.num,
                     v.times,
                     v.ty.ToString(),
                     v.str
@@ -94,10 +96,12 @@ namespace MyControl
             System.DateTime currentTime = System.DateTime.Now;
             CtrlMsg ctrlMag = new CtrlMsg();
             ctrlMag.times = currentTime.ToString("t");
+            //ctrlMag.num = n;
             ctrlMag.str = msg;
             ctrlMag.ty = type;
             Alarm_List.Add(ctrlMag);
         }
+
     }
     public enum MsgType
     {

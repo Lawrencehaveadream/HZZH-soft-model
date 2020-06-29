@@ -48,6 +48,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CSkin, Version=16.1.14.2, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\CSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="halcondotnet, Version=12.0.0.0, Culture=neutral, PublicKeyToken=4973bed59ddbf2b8, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\halcondotnet.dll</HintPath>
+    </Reference>
     <Reference Include="HZZHController">
       <HintPath>..\..\新建文件夹\HZZHController.dll</HintPath>
     </Reference>
@@ -60,6 +68,10 @@
     <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\VisionsysEx\Sqlite\Sqlite\bin\Debug\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="ProVision, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ProVision.dll</HintPath>
     </Reference>
     <Reference Include="SqliteNet">
       <HintPath>..\..\新建文件夹\SqliteNet.dll</HintPath>
@@ -82,6 +94,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Common\License\AESHelper.cs" />
+    <Compile Include="Common\License\Api.cs" />
+    <Compile Include="Common\License\LicenseMsg.cs" />
+    <Compile Include="Common\License\SoftReg.cs" />
+    <Compile Include="Common\PointLayout\DisplayLayoutPoint.cs" />
+    <Compile Include="Common\PointLayout\DrawPointLayout.cs" />
+    <Compile Include="Common\PointLayout\LayoutPoint.cs" />
+    <Compile Include="Common\PointLayout\LayoutPointEnumerable.cs" />
+    <Compile Include="Common\PointLayout\SelectFrame.cs" />
     <Compile Include="Common\Tools\BytesConverter.cs" />
     <Compile Include="Common\Tools\CreateProject.cs" />
     <Compile Include="Common\Tools\Exception.cs" />
@@ -101,6 +122,21 @@
     <Compile Include="Motion\Config\IO.cs" />
     <Compile Include="Motion\Data\ProcessData.cs" />
     <Compile Include="Motion\Data\SettingData.cs" />
+    <Compile Include="UI\DerivedControl\Form_AxisData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\DerivedControl\Form_AxisData.Designer.cs">
+      <DependentUpon>Form_AxisData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\DerivedControl\Form_Dog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\DerivedControl\Form_Dog.Designer.cs">
+      <DependentUpon>Form_Dog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\DerivedControl\MyMsgBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="UI\DerivedControl\UserCtrlMsgListView.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -187,12 +223,117 @@
     <Compile Include="UI\DerivedControl\Form_TwoPArray.designer.cs">
       <DependentUpon>Form_TwoPArray.cs</DependentUpon>
     </Compile>
-    <Compile Include="UI\Form_SubMain.cs">
+    <Compile Include="UI\Form1_Layout.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="UI\Form_SubMain.designer.cs">
-      <DependentUpon>Form_SubMain.cs</DependentUpon>
+    <Compile Include="UI\Form1_Layout.Designer.cs">
+      <DependentUpon>Form1_Layout.cs</DependentUpon>
     </Compile>
+    <Compile Include="UI\Form_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Form_Main.designer.cs">
+      <DependentUpon>Form_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Form_SolderSet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Form_SolderSet.Designer.cs">
+      <DependentUpon>Form_SolderSet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Frm_Machine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Frm_Machine.Designer.cs">
+      <DependentUpon>Frm_Machine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vision\Algorithm\Circle.cs" />
+    <Compile Include="Vision\Config\Config.cs" />
+    <Compile Include="Vision\Config\ConfigAPIHandle.cs" />
+    <Compile Include="Vision\Config\ConfigCamera.cs" />
+    <Compile Include="Vision\Config\ConfigManager.cs" />
+    <Compile Include="Vision\Config\ConfigVisionPara.cs" />
+    <Compile Include="Vision\Device\Camera.cs" />
+    <Compile Include="Vision\Device\CtrllerObj.cs" />
+    <Compile Include="Vision\Device\Device.cs" />
+    <Compile Include="Vision\Device\DeviceManager.cs" />
+    <Compile Include="Vision\Device\Device_Camera.cs" />
+    <Compile Include="Vision\Driver\APIHandle.cs" />
+    <Compile Include="Vision\Driver\CameraDriver_Halcon.cs" />
+    <Compile Include="Vision\Driver\CameraDriver_MindVision.cs" />
+    <Compile Include="Vision\Driver\Driver.cs" />
+    <Compile Include="Vision\Driver\MVSDK.cs" />
+    <Compile Include="Vision\Logic\MotionPlatform.cs" />
+    <Compile Include="Vision\Logic\VisionProject.cs" />
+    <Compile Include="Vision\Logic\VisionTool.cs" />
+    <Compile Include="Vision\Tool\CalibrationAssistant\CalibDataPoint.cs" />
+    <Compile Include="Vision\Tool\CalibrationAssistant\CalibPointToPoint.cs" />
+    <Compile Include="Vision\Tool\CalibrationAssistant\CalibPPControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vision\Tool\CalibrationAssistant\CalibPPControl.designer.cs">
+      <DependentUpon>CalibPPControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vision\Tool\CalibrationAssistant\CalibPPSetting.cs" />
+    <Compile Include="Vision\Tool\CalibrationAssistant\CalibSimilarity.cs" />
+    <Compile Include="Vision\Tool\CalibrationAssistant\IPlatformMove.cs" />
+    <Compile Include="Vision\Tool\Frm_HandMagnification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vision\Tool\Frm_HandMagnification.designer.cs">
+      <DependentUpon>Frm_HandMagnification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vision\Tool\Frm_MaskEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vision\Tool\Frm_MaskEditor.designer.cs">
+      <DependentUpon>Frm_MaskEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vision\Tool\IniFileOperate.cs" />
+    <Compile Include="Vision\Tool\InteractiveROI\GraphicContext.cs" />
+    <Compile Include="Vision\Tool\InteractiveROI\HObjectEntry.cs" />
+    <Compile Include="Vision\Tool\InteractiveROI\HWndCtrller.cs" />
+    <Compile Include="Vision\Tool\InteractiveROI\HWndCtrllerEx.cs" />
+    <Compile Include="Vision\Tool\InteractiveROI\ROI.cs" />
+    <Compile Include="Vision\Tool\InteractiveROI\ROIAnnulus.cs" />
+    <Compile Include="Vision\Tool\InteractiveROI\ROICircle.cs" />
+    <Compile Include="Vision\Tool\InteractiveROI\ROICircularArc.cs" />
+    <Compile Include="Vision\Tool\InteractiveROI\ROICross.cs" />
+    <Compile Include="Vision\Tool\InteractiveROI\ROICtrller.cs" />
+    <Compile Include="Vision\Tool\InteractiveROI\ROILine.cs" />
+    <Compile Include="Vision\Tool\InteractiveROI\ROIPolygon.cs" />
+    <Compile Include="Vision\Tool\InteractiveROI\ROIRectangle1.cs" />
+    <Compile Include="Vision\Tool\InteractiveROI\ROIRectangle2.cs" />
+    <Compile Include="Vision\Tool\InteractiveROI\ROIRectangle2_Fix.cs" />
+    <Compile Include="Vision\Tool\Miscs.cs" />
+    <Compile Include="Vision\Tool\Model-NCC\Frm_NccModelControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vision\Tool\Model-NCC\Frm_NccModelControl.designer.cs">
+      <DependentUpon>Frm_NccModelControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vision\Tool\Model-NCC\NCCModel.cs" />
+    <Compile Include="Vision\Tool\Model-NCC\NCCParam.cs" />
+    <Compile Include="Vision\Tool\Model-Shape\Frm_ShapeModelControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vision\Tool\Model-Shape\Frm_ShapeModelControl.designer.cs">
+      <DependentUpon>Frm_ShapeModelControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vision\Tool\Model-Shape\ShapeModel.cs" />
+    <Compile Include="Vision\Tool\Model-Shape\ShapeParam.cs" />
+    <Compile Include="Vision\Tool\ParallelLines.cs" />
+    <Compile Include="Vision\Tool\PictureZoom.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Vision\Tool\RotateCenter\NozzleRotateCenter.cs" />
+    <Compile Include="Vision\Tool\Serialization.cs" />
+    <EmbeddedResource Include="UI\DerivedControl\Form_AxisData.resx">
+      <DependentUpon>Form_AxisData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\DerivedControl\Form_Dog.resx">
+      <DependentUpon>Form_Dog.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UI\DerivedControl\Form_Log.resx">
       <DependentUpon>Form_Log.cs</DependentUpon>
     </EmbeddedResource>
@@ -236,8 +377,35 @@
     <EmbeddedResource Include="UI\DerivedControl\Form_TwoPArray.resx">
       <DependentUpon>Form_TwoPArray.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UI\Form_SubMain.resx">
-      <DependentUpon>Form_SubMain.cs</DependentUpon>
+    <EmbeddedResource Include="UI\DerivedControl\MyMsgBox.resx">
+      <DependentUpon>MyMsgBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Form1_Layout.resx">
+      <DependentUpon>Form1_Layout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Form_Main.resx">
+      <DependentUpon>Form_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Form_SolderSet.resx">
+      <DependentUpon>Form_SolderSet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Frm_Machine.resx">
+      <DependentUpon>Frm_Machine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vision\Tool\CalibrationAssistant\CalibPPControl.resx">
+      <DependentUpon>CalibPPControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vision\Tool\Frm_HandMagnification.resx">
+      <DependentUpon>Frm_HandMagnification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vision\Tool\Frm_MaskEditor.resx">
+      <DependentUpon>Frm_MaskEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vision\Tool\Model-NCC\Frm_NccModelControl.resx">
+      <DependentUpon>Frm_NccModelControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vision\Tool\Model-Shape\Frm_ShapeModelControl.resx">
+      <DependentUpon>Frm_ShapeModelControl.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -253,7 +421,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Vision\" />
+    <Folder Include="Vision\Parameter\" />
+    <Folder Include="Vision\Tool\MatchAssistant\" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5">

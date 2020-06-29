@@ -172,6 +172,7 @@
             this.numericUpDown6.Name = "numericUpDown6";
             this.numericUpDown6.Size = new System.Drawing.Size(101, 23);
             this.numericUpDown6.TabIndex = 31;
+            this.numericUpDown6.Visible = false;
             // 
             // label3
             // 
@@ -181,6 +182,7 @@
             this.label3.Size = new System.Drawing.Size(39, 17);
             this.label3.TabIndex = 25;
             this.label3.Text = "[deg]";
+            this.label3.Visible = false;
             // 
             // btn_readrightup
             // 
@@ -200,6 +202,7 @@
             this.label4.Size = new System.Drawing.Size(28, 17);
             this.label4.TabIndex = 24;
             this.label4.Text = "R：";
+            this.label4.Visible = false;
             // 
             // label23
             // 
@@ -318,6 +321,7 @@
             this.numericUpDown9.Name = "numericUpDown9";
             this.numericUpDown9.Size = new System.Drawing.Size(101, 23);
             this.numericUpDown9.TabIndex = 35;
+            this.numericUpDown9.Visible = false;
             // 
             // label5
             // 
@@ -327,6 +331,7 @@
             this.label5.Size = new System.Drawing.Size(39, 17);
             this.label5.TabIndex = 28;
             this.label5.Text = "[deg]";
+            this.label5.Visible = false;
             // 
             // btn_readrightdwon
             // 
@@ -346,6 +351,7 @@
             this.label6.Size = new System.Drawing.Size(28, 17);
             this.label6.TabIndex = 27;
             this.label6.Text = "R：";
+            this.label6.Visible = false;
             // 
             // label19
             // 
@@ -450,6 +456,7 @@
             this.numericUpDown3.Name = "numericUpDown3";
             this.numericUpDown3.Size = new System.Drawing.Size(101, 23);
             this.numericUpDown3.TabIndex = 24;
+            this.numericUpDown3.Visible = false;
             // 
             // numericUpDown2
             // 
@@ -495,6 +502,7 @@
             this.label1.Size = new System.Drawing.Size(39, 17);
             this.label1.TabIndex = 22;
             this.label1.Text = "[deg]";
+            this.label1.Visible = false;
             // 
             // label2
             // 
@@ -504,6 +512,7 @@
             this.label2.Size = new System.Drawing.Size(28, 17);
             this.label2.TabIndex = 21;
             this.label2.Text = "R：";
+            this.label2.Visible = false;
             // 
             // btn_readleftup
             // 
@@ -631,7 +640,7 @@
             this.radioButton1.Text = "横向";
             this.radioButton1.UseVisualStyleBackColor = false;
             // 
-            // Frm_DPArr
+            // Frm_ThreePArray
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -643,7 +652,7 @@
             this.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.Name = "Frm_DPArr";
+            this.Name = "Frm_ThreePArray";
             this.Text = "三点阵列";
             this.Load += new System.EventHandler(this.Frm_DPArr_Load);
             this.groupBox3.ResumeLayout(false);

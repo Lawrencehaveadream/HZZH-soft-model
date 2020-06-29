@@ -456,7 +456,7 @@ namespace Common
         /// <param name="row">行</param>
         /// <param name="column">列</param>
         /// <param name="direction">阵列方向，行优先或者列优先</param>
-        public static List<PointF3> MatrixArrayList(PointF3 p1, PointF3 p2, PointF3 p3, int row, int column, int direction)
+        public static List<wPointF> MatrixArrayList(PointF3 p1, PointF3 p2, PointF3 p3, int row, int column, int direction)
         {
             float deltaX1, deltaY1, deltaZ1, deltaX2, deltaY2, deltaZ2;
             if (row <= 0 || column <= 0 || (row == 1 && column == 1)) return null;
@@ -488,7 +488,7 @@ namespace Common
 
             #region 做点
 
-            List<PointF3> termlist = new List<PointF3>();
+            List<wPointF> termlist = new List<wPointF>();
 
             if (direction == 0) //横向优先
             {
@@ -496,18 +496,18 @@ namespace Common
                 {
                     for (int j = 0; j < column; j++)  //列
                     {
-                        PointF3 stickPoint = new PointF3();
+                        wPointF stickPoint = new wPointF();
                         if (i % 2 == 0)
                         {
                             stickPoint.X = p2.X + deltaX1 * j + deltaX2 * i;
                             stickPoint.Y = p2.Y + deltaY1 * j + deltaY2 * i;
-                            stickPoint.Z = p2.Z + deltaZ1 * j + deltaZ2 * i;
+                            //stickPoint.Z = p2.Z + deltaZ1 * j + deltaZ2 * i;
                         }
                         else
                         {
                             stickPoint.X = p2.X + deltaX1 * (column - 1 - j) + deltaX2 * i;
                             stickPoint.Y = p2.Y + deltaY1 * (column - 1 - j) + deltaY2 * i;
-                            stickPoint.Z = p2.Z + deltaZ1 * (column - 1 - j) + deltaZ2 * i;
+                            //stickPoint.Z = p2.Z + deltaZ1 * (column - 1 - j) + deltaZ2 * i;
                         }
                         termlist.Add(stickPoint);
                     }
@@ -519,18 +519,18 @@ namespace Common
                 {
                     for (int j = 0; j < row; j++)  //行
                     {
-                        PointF3 stickPoint = new PointF3();
+                        wPointF stickPoint = new wPointF();
                         if (i % 2 == 0)
                         {
                             stickPoint.X = p2.X + deltaX2 * j + deltaX1 * i;
                             stickPoint.Y = p2.Y + deltaY2 * j + deltaY1 * i;
-                            stickPoint.Z = p2.Z + deltaZ2 * j + deltaZ1 * i;
+                            //stickPoint.Z = p2.Z + deltaZ2 * j + deltaZ1 * i;
                         }
                         else
                         {
                             stickPoint.X = p2.X + deltaX2 * (row - 1 - j) + deltaX1 * i;
                             stickPoint.Y = p2.Y + deltaY2 * (row - 1 - j) + deltaY1 * i;
-                            stickPoint.Z = p2.Z + deltaZ2 * (row - 1 - j) + deltaZ1 * i;
+                            //stickPoint.Z = p2.Z + deltaZ2 * (row - 1 - j) + deltaZ1 * i;
                         }
                         termlist.Add(stickPoint);
                     }

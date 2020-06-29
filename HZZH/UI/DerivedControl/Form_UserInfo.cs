@@ -17,14 +17,14 @@ namespace MyControl
         {
             InitializeComponent();
 
-                UserNameList.Add(new UserMode() { Index = 0, Name = "操作员" });
-                UserNameList.Add(new UserMode() { Index = 1, Name = "工程师" });
-                UserNameList.Add(new UserMode() { Index = 2, Name = "厂家" });
-                UserNameList.Add(new UserMode() { Index = 3, Name = "开发者" });
-            cmb_UserType.DataSource = null;
-            cmb_UserType.DataSource = UserNameList;
-            cmb_UserType.ValueMember = "Index";
-            cmb_UserType.DisplayMember = "Name";
+            //UserNameList.Add(new UserMode() { Index = 0, Name = "操作员" });
+            //UserNameList.Add(new UserMode() { Index = 1, Name = "工程师" });
+            //UserNameList.Add(new UserMode() { Index = 2, Name = "厂家" });
+            //UserNameList.Add(new UserMode() { Index = 3, Name = "开发者" });
+            //cmb_UserType.DataSource = null;
+            //cmb_UserType.DataSource = UserNameList;
+            //cmb_UserType.ValueMember = "Index";
+            //cmb_UserType.DisplayMember = "Name";
         }
 
         public void GetUserList(User user)
@@ -80,32 +80,166 @@ namespace MyControl
         //表格显示
         private void LoadUsers(List<User> m_listUsers)
         {
-            this.DG_Users.Rows.Clear();
-            for (int i = 0; i < m_listUsers.Count; i++)
+            try
             {
-                DG_Users.Rows.Add();
-                DG_Users[0, i].Value = m_listUsers[i].Name;
-                DG_Users[2, i].Value = m_listUsers[i].CreatedOn;
-                DG_Users[3, i].Value = "删除";
-                DG_Users[1, i].Value = m_listUsers[i].Type;
-                switch (m_listUsers[i].Type)
+                if (user != null)
                 {
-                    case "0":
-                        DG_Users[1, i].Value = "操作员";
-                        break;
-                    case "1":
-                        DG_Users[1, i].Value = "工程师";
-                        break;
-                    case "2":
-                        DG_Users.Rows[i].Visible = false;
-                        break;
-                    case "3":
-                        DG_Users.Rows[i].Visible = false;
-                        break;
-                    default:
-                        break;
+                    this.DG_Users.Rows.Clear();
+                    switch (user.Type)
+                    {
+                        case "0":
+                            for (int i = 0; i < m_listUsers.Count; i++)
+                            {
+                                DG_Users.Rows.Add();
+                                DG_Users[0, i].Value = m_listUsers[i].Name;
+                                DG_Users[2, i].Value = m_listUsers[i].CreatedOn;
+                                DG_Users[3, i].Value = "删除";
+                                DG_Users[1, i].Value = m_listUsers[i].Type;
+                                switch (m_listUsers[i].Type)
+                                {
+                                    case "0":
+                                        DG_Users[1, i].Value = "操作员";
+                                        break;
+                                    case "1":
+                                        DG_Users.Rows[i].Visible = false;
+                                        break;
+                                    case "2":
+                                        //DG_Users[1, i].Value = "厂家";
+                                        DG_Users.Rows[i].Visible = false;
+                                        break;
+                                    case "3":
+                                        //DG_Users[1, i].Value = "开发者";
+                                        DG_Users.Rows[i].Visible = false;
+                                        break;
+                                    default:
+                                        break;
+                                }
+                            }
+                            break;
+                        case "1":
+                            for (int i = 0; i < m_listUsers.Count; i++)
+                            {
+                                DG_Users.Rows.Add();
+                                DG_Users[0, i].Value = m_listUsers[i].Name;
+                                DG_Users[2, i].Value = m_listUsers[i].CreatedOn;
+                                DG_Users[3, i].Value = "删除";
+                                DG_Users[1, i].Value = m_listUsers[i].Type;
+                                switch (m_listUsers[i].Type)
+                                {
+                                    case "0":
+                                        DG_Users[1, i].Value = "操作员";
+                                        break;
+                                    case "1":
+                                        DG_Users[1, i].Value = "工程师";
+                                        break;
+                                    case "2":
+                                        //DG_Users[1, i].Value = "厂家";
+                                        DG_Users.Rows[i].Visible = false;
+                                        break;
+                                    case "3":
+                                        //DG_Users[1, i].Value = "开发者";
+                                        DG_Users.Rows[i].Visible = false;
+                                        break;
+                                    default:
+                                        break;
+                                }
+                            }
+                            break;
+                        case "2":
+                            for (int i = 0; i < m_listUsers.Count; i++)
+                            {
+                                DG_Users.Rows.Add();
+                                DG_Users[0, i].Value = m_listUsers[i].Name;
+                                DG_Users[2, i].Value = m_listUsers[i].CreatedOn;
+                                DG_Users[3, i].Value = "删除";
+                                DG_Users[1, i].Value = m_listUsers[i].Type;
+                                switch (m_listUsers[i].Type)
+                                {
+                                    case "0":
+                                        DG_Users[1, i].Value = "操作员";
+                                        break;
+                                    case "1":
+                                        DG_Users[1, i].Value = "工程师";
+                                        break;
+                                    case "2":
+                                        DG_Users[1, i].Value = "厂家";
+                                        break;
+                                    case "3":
+                                        //DG_Users[1, i].Value = "开发者";
+                                        DG_Users.Rows[i].Visible = false;
+                                        break;
+                                    default:
+                                        break;
+                                }
+                            }
+                            break;
+                        case "3":
+                            for (int i = 0; i < m_listUsers.Count; i++)
+                            {
+                                DG_Users.Rows.Add();
+                                DG_Users[0, i].Value = m_listUsers[i].Name;
+                                DG_Users[2, i].Value = m_listUsers[i].CreatedOn;
+                                DG_Users[3, i].Value = "删除";
+                                DG_Users[1, i].Value = m_listUsers[i].Type;
+                                switch (m_listUsers[i].Type)
+                                {
+                                    case "0":
+                                        DG_Users[1, i].Value = "操作员";
+                                        break;
+                                    case "1":
+                                        DG_Users[1, i].Value = "工程师";
+                                        break;
+                                    case "2":
+                                        DG_Users[1, i].Value = "厂家";
+                                        break;
+                                    case "3":
+                                        DG_Users[1, i].Value = "开发者";
+
+                                        break;
+                                    default:
+                                        break;
+                                }
+                            }
+                            break;
+                        default:
+                            for (int i = 0; i < m_listUsers.Count; i++)
+                            {
+                                DG_Users.Rows.Add();
+                                DG_Users[0, i].Value = m_listUsers[i].Name;
+                                DG_Users[2, i].Value = m_listUsers[i].CreatedOn;
+                                DG_Users[3, i].Value = "删除";
+                                DG_Users[1, i].Value = m_listUsers[i].Type;
+                                switch (m_listUsers[i].Type)
+                                {
+                                    case "0":
+                                        DG_Users[1, i].Value = "操作员";
+                                        break;
+                                    case "1":
+                                        DG_Users[1, i].Value = "工程师";
+                                        break;
+                                    case "2":
+                                        DG_Users[1, i].Value = "厂家";
+                                        break;
+                                    case "3":
+                                        DG_Users[1, i].Value = "开发者";
+
+                                        break;
+                                    default:
+                                        break;
+                                }
+                            }
+                            break;
+                    }
                 }
             }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+
+
+           
+
         }
         //删除用户
         private void DG_Users_CellClick(object sender, DataGridViewCellEventArgs e)
@@ -135,6 +269,7 @@ namespace MyControl
        
         private void UserMgrLogos()
         {
+            UserNameList.Clear();
             try
             {
                 if (user != null)

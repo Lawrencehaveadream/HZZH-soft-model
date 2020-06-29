@@ -127,6 +127,12 @@ namespace Device
         public BaseData Uph = new BaseData(1518, 1);
         public BaseData ProNum = new BaseData(4300, 1);
         public BaseData Label_Num = new BaseData(4338, 1);
+        public BaseData SoftWare_Ver = new BaseData(20, 12);
+        /// <summary>
+        /// 平台工作
+        /// </summary>
+        public BaseData Y_Start = new BaseData(1502, 2);
+
         #endregion
 
         #region 方法
@@ -208,6 +214,9 @@ namespace Device
                 ReadData.Add(Uph);
                 ReadData.Add(ProNum);
                 ReadData.Add(Label_Num);
+                ReadData.Add(SoftWare_Ver);
+
+                ReadData.Add(Y_Start);//读取
             }
             catch (Exception ex)
             {

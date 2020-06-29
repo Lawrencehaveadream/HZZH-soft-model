@@ -42,7 +42,8 @@ namespace MyControl
             }
             for (int i = 0; i < ConfigHandle.Instance.UserDefine.UserList.Count; i++)
             {
-                if (ConfigHandle.Instance.UserDefine.UserList[i].Name.Equals(currentUser.Name) && ConfigHandle.Instance.UserDefine.UserList[i].PassWord.Equals(GetSHA1HashData(txt_OldPassword.Text)))
+                if (ConfigHandle.Instance.UserDefine.UserList[i].Name.Equals(currentUser.Name) && 
+                    ConfigHandle.Instance.UserDefine.UserList[i].PassWord.Equals(GetSHA1HashData(txt_OldPassword.Text)))
                 {
                     ConfigHandle.Instance.UserDefine.UserList[i].PassWord = GetSHA1HashData(txt_PasswordNew.Text);
                     currentUser = ConfigHandle.Instance.UserDefine.UserList[i];

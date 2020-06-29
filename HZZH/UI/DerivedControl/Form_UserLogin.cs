@@ -31,7 +31,8 @@ namespace MyControl
                 }
                 for (int i = 0; i < ConfigHandle.Instance.UserDefine.UserList.Count; i++)
                 {
-                    if (ConfigHandle.Instance.UserDefine.UserList[i].Name.Equals(comboBox1.Text) && ConfigHandle.Instance.UserDefine.UserList[i].PassWord.Equals(GetSHA1HashData(txt_Password.Text)))
+                    if (ConfigHandle.Instance.UserDefine.UserList[i].Name.Equals(comboBox1.Text) && 
+                        ConfigHandle.Instance.UserDefine.UserList[i].PassWord.Equals(GetSHA1HashData(txt_Password.Text)))
                     {
                         currentuser = ConfigHandle.Instance.UserDefine.UserList[i];
                     }
@@ -62,7 +63,9 @@ namespace MyControl
             {
                 returnValue.Append(hashData[i].ToString());
             }
+            //return "641890219989519581101501581612559294203219190239";
             return returnValue.ToString();
+            
         }
 
         private void btn_Cancel_Click(object sender, EventArgs e)

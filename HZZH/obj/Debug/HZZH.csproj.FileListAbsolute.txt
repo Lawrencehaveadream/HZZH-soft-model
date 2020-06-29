@@ -716,3 +716,37 @@ C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\b
 C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\bin\Debug\HZZH.pdb
 C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\bin\Debug\Newtonsoft.Json.dll
 C:\Users\李斯特\Desktop\上位机开发模板\上位机标准 - 副本\HZZH\obj\Debug\HZZH.csproj.CopyComplete
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\HZZH.csprojAssemblyReference.cache
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\MyControl.FormLog.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\UI.frm_SplashScreen.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\HZZH.Properties.Resources.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\MyControl.AlarmMessage.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\MyControl.ChangeUserPwd.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\MyControl.InputOutput.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\MyControl.UserMachinePrm.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\MyControl.Jog.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\MyControl.UserInfo.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\MyControl.UserLogin.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\UI.Frm_ThreePArray.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\UI.Frm_TwoPArray.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\UI.FormMain.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\HZZH.csproj.GenerateResource.cache
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\HZZH.csproj.CoreCompileInputs.cache
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\HZZH.exe
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\HZZH.pdb
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\HZZH.UI.DerivedControl.Form_AxisData.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\HZZH.UI.DerivedControl.Form_Dog.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\MyControl.MyMsgBox.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\UI.Form1_Layout.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\UI.Form_SolderSet.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\HZZH.UI.Frm_Machine.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\Vision.Tool.Calibrate.CalibPPControl.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\Dispenser.Frm_HandMagnification.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\Vision.Tool.Frm_MaskEditor.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\Vision.Tool.Model.Frm_NccModelControl.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\Vision.Tool.Model.Frm_ShapeModelControl.resources
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\bin\Debug\HZZH.exe.config
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\bin\Debug\HZZH.exe
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\bin\Debug\HZZH.pdb
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李斯特\Desktop\打磨上锡 练习程序\HZZH-soft-model\HZZH\obj\Debug\HZZH.csproj.CopyComplete
